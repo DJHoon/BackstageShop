@@ -9,5 +9,9 @@ export function request(config) {
   // instance.interceptors.response.use(function(res) {
   //   return res.data
   // })
+  instance.interceptors.request.use(res => {
+    res.headers.Authorization = window.sessionStorage.getItem('token')
+    return res
+  })
   return instance(config)
 }

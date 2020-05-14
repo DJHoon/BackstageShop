@@ -1,0 +1,65 @@
+{
+  "id": "1523038",
+  "name": "电商小程序",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1130616",
+      "name": "数据",
+      "font_class": "shuju",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "1197184",
+      "name": "商品",
+      "font_class": "shangpin",
+      "unicode": "e689",
+      "unicode_decimal": 59017
+    },
+    {
+      "icon_id": "5485641",
+      "name": "权限",
+      "font_class": "quanxian",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "5878221",
+      "name": "数据",
+      "font_class": "shuju1",
+      "unicode": "e761",
+      "unicode_decimal": 59233
+    },
+    {
+      "icon_id": "12751546",
+      "name": "订单",
+      "font_class": "dingdan_huaban",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "6246304",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
+    },
+    {
+      "icon_id": "4195141",
+      "name": "订单",
+      "font_class": "dingdan",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    },
+    {
+      "icon_id": "9046131",
+      "name": "客服",
+      "font_class": "kefu",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    }
+  ]
+}
