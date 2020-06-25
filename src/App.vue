@@ -5,7 +5,7 @@
     <router-view></router-view>
     <p>login</p>
     你在说什么
-  </div>wtf
+  </div>wtfSADASDASD
 </template>
 
 <script>  
