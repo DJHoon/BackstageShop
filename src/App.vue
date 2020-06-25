@@ -5,9 +5,9 @@
     <router-view></router-view>
     <p>login</p>
     你在说什么
-  </div>wtfSADASDASD
+  </div>wtfSADASDASD  萨达飒飒啊大苏打撒旦撒旦
 </template>
-
+自行车行政村行政村支持
 <script>  
 撒大苏打大苏打的
 export default {
