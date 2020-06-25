@@ -2,6 +2,7 @@
   <div id="app">
     <router-view></router-view>
     <p>login</p>
+    你在说什么
   </div>  
 </template>
 
