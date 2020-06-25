@@ -2,7 +2,7 @@
   <div id="app">Welcome
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
-  </div>asdsaddsagit
+  </div>wtf
 </template>
 
 <script>  
