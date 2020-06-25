@@ -16,6 +16,9 @@ export default {
 
   },
   methods: {
+    getLogin() {
+      console.log('wwwwww')
+    }
    
   }
 }
