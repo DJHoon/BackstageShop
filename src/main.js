@@ -5,7 +5,7 @@ import ElementUI from 'element-ui'
 import 'element-ui/lib/theme-chalk/index.css';
 import '@/assets/css/icon/iconfont.css';
 Vue.use(ElementUI)12
-Vue.config.productionTip = false12
+Vue.config.productionTip = false
 
 new Vue({
   router,
