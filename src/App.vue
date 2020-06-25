@@ -1,11 +1,12 @@
 <template>
   <div id="app">
     <router-view></router-view>
-    <p>login</p>wtf
+    <p>login</p>
+    你在说什么
   </div>  
 </template>
 
-<script>
+<script>  
 
 export default {
   name: 'App',
