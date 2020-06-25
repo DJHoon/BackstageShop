@@ -3,9 +3,14 @@
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
     <router-view></router-view>
-  </div>
+    <p>login</p>
+    你在说什么
+  </div>wtfSADASDASD  萨达飒飒啊大苏打撒旦撒旦
 </template>
-<script>
+哈哈哈哈哈哈哈哈哈t
+
+<script>  
+
 export default {
   name: 'App',
   components: {
