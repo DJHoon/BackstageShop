@@ -5,9 +5,9 @@
     <router-view></router-view>
     <p>login</p>
     你在说什么
-  </div>wtfSADASDASD
+  </div>wtfSADASDASD 
 </template>
-
+自行车行政村行政村支持
 <script>  
 
 export default {
